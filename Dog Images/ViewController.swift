@@ -12,7 +12,8 @@ class ViewController: UIViewController {
     @IBOutlet weak var showDogImages: UIButton!
     @IBOutlet weak var dogImage: UIImageView!
     
-    var oic = 0 
+    var oic = 0
+    var iture = 0 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
