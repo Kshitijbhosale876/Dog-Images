@@ -15,6 +15,7 @@ class ViewController: UIViewController {
     var oic = 0
     var iture = 0
     var inco = 0
+    var gito = 0
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
